@@ -1,3 +1,3 @@
 <?php
-echo "Sawaddee";
+echo "Sawaddee krub hahaha";
 ?>sawadee
